@@ -1,4 +1,4 @@
-Hi 👋 My name is Fedor Hajdu
+Hi 👋 My name is Fedor
 ============================
 Software Engineer
 -----------------
