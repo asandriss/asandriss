@@ -4,6 +4,10 @@ Software Engineer
 -----------------
 I'm a software engineer with almost 20 years of professional experience. My focus is software design, creating efficient and scalable solutions that support millions of users.
 
+This is one of multiple accounts I have on GitHub. This one is mostly used for learning new stuff and playground-style applications. My other accounts:
+<p align="left"> <a href="https://www.github.com/fedor-hajdu-talabat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<a href="https://www.github.com/Fedor-Hajdu_Reb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+
 * 🌍  I'm based in Oxford, England, UK
 
 ### Skills
