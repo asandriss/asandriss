@@ -2,7 +2,9 @@ Hi 👋 My name is Fedor
 ============================
 Software Engineer
 -----------------
-I'm a software engineer with almost 20 years of professional experience. My focus is software design, creating efficient and scalable solutions that support millions of users.* 🌍  I'm based in Oxford, England, UK
+I'm a software engineer with almost 20 years of professional experience. My focus is software design, creating efficient and scalable solutions that support millions of users.
+
+* 🌍  I'm based in Oxford, England, UK
 
 ### Skills
 
