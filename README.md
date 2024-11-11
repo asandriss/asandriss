@@ -23,4 +23,3 @@ This is one of multiple accounts I have on GitHub. This one is mostly used for l
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/asandriss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asandriss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-[![Fedor's GitHub stats](https://github-readme-stats.vercel.app/api?username=asandriss)](https://github.com/anuraghazra/github-readme-stats)
